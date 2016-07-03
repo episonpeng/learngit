@@ -5,4 +5,4 @@
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
 
 \f0\fs24 \cf0 Git is a distributed version control system.\
-Git is free software.}
+Git is free software distributed under the GPL.}
